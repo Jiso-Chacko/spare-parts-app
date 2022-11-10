@@ -1,0 +1,121 @@
+.ProductCatBannerMain{
+    background-color: black;
+    height:17.75rem;
+}
+
+.ProductCatBannerMainMobile{
+    background-color: black;
+    height:670px;
+    margin-top: 60px;
+}
+
+.proCatBannerTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 42px !important;
+line-height: 48px !important;
+color: #FFFFFF !important;
+}
+
+.proCatBannerTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 34px;
+color: #FFFFFF !important;
+text-align: center;
+}
+
+.proCatBannerSubTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 22px !important;
+color: #BBBBBB !important;
+}
+
+.proCatBannerSubTitleMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+color: #BBBBBB !important;
+text-align: center;
+margin-top: 1rem;
+}
+
+.proCatBannerImgBg1{
+    background-image: url(../../../public/assets/images/ProductImages/Rectangle33.png) !important;
+    /* min-height: 380px; */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 398px !important;
+height: 179px !important;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+.proCatBannerImgBg1Mobile{
+    background-image: url(../../../public/assets/images/ProductImages/Rectangle33.png) !important;
+    /* min-height: 380px; */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 24.875 !important;
+    height: 179px !important;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.proCatBannerImgBg2{
+    background-image: url(../../../public/assets/images/ProductImages/Rectangle34.png) !important;
+    /* min-height: 380px; */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 398px !important;
+    height: 179px !important;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.proCatBannerImgBg2Mobile{
+    background-image: url(../../../public/assets/images/ProductImages/Rectangle34.png) !important;
+    /* min-height: 380px; */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    width: 24.875 !important;
+    height: 179px !important;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.imgTitle{
+    font-family: 'Sora' !important;
+font-style: normal !;
+font-weight: 600 !important;
+font-size: 22px !important;
+line-height: 28px !important;
+color: #FFFFFF !important;
+margin-right: 2rem !important;
+}
+
+.arrowButton{
+    width: 51px !important;
+    height: 32px !important;
+    background: #ED2C37 !important;
+    border-radius: 0 !important;
+    color: #ED2C37 !important;
+}

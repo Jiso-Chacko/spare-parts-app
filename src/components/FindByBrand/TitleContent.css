@@ -1,0 +1,44 @@
+.findByBrandTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 42px !important;
+    margin-top: 4rem !important;
+    justify-content: flex-start !important;
+    color: black !important;
+}
+
+
+.titleDescription{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 26px !important;
+    margin-top: 1rem !important;
+}
+
+.findByBrandTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 42px;
+    margin-top: 4rem !important;
+    justify-content: flex-start !important;
+    color: black !important;
+}
+
+.titleDescriptionMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 1rem !important;
+}
+
+.descriptionBox{
+    width: 42rem !important;
+}

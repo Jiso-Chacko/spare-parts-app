@@ -1,0 +1,15 @@
+.userReviewTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 22px !important;
+}
+
+.userReviewTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 22px;
+}

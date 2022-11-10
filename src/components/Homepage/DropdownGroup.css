@@ -1,0 +1,93 @@
+.dropDownContainer{
+    flex-direction: row;
+    width: 100%;
+    height: 61px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dropdown{
+    width: 15rem;
+    text-align: center;
+    background-color: #313131;
+    border-radius: 0 !important;
+    color: white !important;
+    height: 53.13px !important;
+}
+
+.dropdownMobile{
+    width: 15rem;
+    text-align: center;
+    background-color: #313131;
+    border-radius: 0 !important;
+    color: white !important;
+    height: 53.13px !important;
+    margin-top: 3px !important;
+}
+
+.dropdownInput{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: white !important;
+}
+
+.dropdownButton{
+    background-color: #ED2C37 !important;
+    height: 55px !important;
+    width: 240px !important;
+    border-radius: 0 !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;  
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 23px !important;
+    color: white !important;
+}
+
+.dropdownButtonMobile{
+    background-color: #ED2C37 !important;
+    height: 53.13px !important;
+    width: 15rem;
+    border-radius: 0 !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;  
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 23px !important;
+    color: white !important;
+    margin-top: 3px !important;
+}
+
+.dropdownGrpDiv{
+    position: absolute;
+    bottom: 0 !important;
+    top: calc(100vh + 152px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selectYrCar{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    line-height: 22px !important;
+    color: #FFFFFF !important;
+    margin-bottom: 1rem !important;
+}
+
+.dropdownGrpDivMobile{
+    top: calc(100vh + 152px);
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

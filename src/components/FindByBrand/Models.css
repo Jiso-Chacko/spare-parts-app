@@ -1,0 +1,69 @@
+.modelTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 22px !important;
+    align-content: center;
+}
+
+.modelTitleMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 22px;
+    align-content: center;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titleContainerMobile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.card{
+    border: 1px solid #C9C9C9;
+    border-top: 4px solid #ED2C37;
+    width: 275px;
+    height: 167px;
+    background-color: #FFFFFF !important;
+    border-radius: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 28px !important;
+}
+
+.cardSubTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 28px !important;
+}
+
+.css-13wfk39-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #ED2C37 !important;
+    display: unset;
+    line-height: 4.4375em;
+    background: none ;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #C9C9C9 !important;
+}

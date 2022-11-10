@@ -1,0 +1,22 @@
+.reviewCardTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    line-height: 24px !important;
+    color: #303030 !important;
+}
+
+.cardTitleContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.reviewCardBody{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 22px !important;
+color: #303030 !important;
+}

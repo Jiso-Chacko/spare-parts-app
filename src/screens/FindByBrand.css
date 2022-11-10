@@ -1,0 +1,37 @@
+.findByBrandBreadcrumbs{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.currentPageTitle{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ED2C37; 
+}
+
+.css-1wuw8dw-MuiBreadcrumbs-separator{
+    color: #ED2C37;
+}
+
+.brandBreadcrumbUnderline{
+    width: 1200px;
+    height: 0px !important;
+    opacity: 0.2 !important;
+    border: 1px solid #E0E0E0;
+    margin-top: 1rem;
+}
+
+.brandBreadcrumbUnderlineMobile{
+    width: auto;
+    height: 0px !important;
+    opacity: 0.2 !important;
+    border: 1px solid #E0E0E0;
+    margin-top: 1rem;
+}

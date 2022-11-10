@@ -1,0 +1,49 @@
+.paper{
+    height: 9.625rem !important;
+    width: 10rem !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+    cursor: pointer !important;
+    border: 1px solid #D9D9D9 !important;
+   border-radius: 0 !important;
+   background-color: aqua !important;
+}
+
+.paper :hover{ 
+    border-color: purple;
+    border-radius: 2;
+ }
+
+.catCardTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 16px !important;
+line-height: 22px !important;
+color: #000000 !important;
+text-align: center !important;
+
+}
+
+.catCard{
+    width: 160px !important;
+height: 154px !important;
+background: #FFFFFF !important;
+border: 1px solid #D9D9D9 !important;
+display: flex !important;
+justify-content: center !important;
+align-items: center !important;
+border-radius: 0 !important;
+}
+
+.catCard:hover{
+    border-bottom: 2px solid #ED2C37 !important;
+}
+
+
+/* .paperGrid :hover{
+    background-color: #ED2C37;
+    color: white;
+} */

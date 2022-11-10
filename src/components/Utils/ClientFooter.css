@@ -1,0 +1,49 @@
+.contactUs{
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    line-height: 24px !important;
+    color: #fff;
+}
+
+.contactUsMobile{
+    /* font-family: 'Metropolis'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    color: #ED2C37;
+}
+
+.contactUsContent1{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #FFFFFF !important;
+margin-top: 1rem;
+}
+
+
+.contactUsContent2{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #FFFFFF !important;
+margin-left: 1rem !important;
+margin-top: 1rem;
+}
+
+.contactUsContent2Mobile{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #FFFFFF !important;
+/* margin-left: 1rem; */
+margin-top: 1rem;
+}

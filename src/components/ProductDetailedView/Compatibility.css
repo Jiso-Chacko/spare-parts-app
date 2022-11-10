@@ -1,0 +1,103 @@
+.compatability{
+    background: #F4F4F4;
+    height:9.75rem;
+    align-items: center !important;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
+
+.compatabilityMobile{
+    background: #F4F4F4;
+    width: auto;
+    align-items: center !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.title{
+    color: #000000 !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 32px !important;
+    line-height: 40px !important;
+}
+
+.titleMobileCompat{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 40px;
+    margin-top: 1rem;
+    color: #000000;
+}
+
+.subTitle{
+    color: #8C8C8C !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 30px !important;   
+}
+
+.subTitleComptMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+color: #8C8C8C;
+}
+
+.compatCard{
+    width: 191px !important;
+    height: 80px !important;
+    background: #FFFFFF !important;
+    box-shadow: 0px 7px 27px -13px #CACACA !important;
+    border-radius: 0 !important;
+}
+
+.compatCardMobile{
+    width: 149.14px;
+height: 62.47px;
+background: #FFFFFF;
+box-shadow: 0px 7px 27px -13px #CACACA;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 0;
+}
+
+.compatCardMainMobile{
+    width: 149.14px;
+height: 62.47px;
+background: #FFFFFF;
+box-shadow: 0px 7px 27px -13px #CACACA;
+border-radius: 0;
+
+}
+
+.compatCardTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 16px !important;
+line-height: 24px !important;
+color: #ED2C37 !important;
+}
+
+.compatCardSubTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 500 !important;
+font-size: 16px !important;
+line-height: 24px !important;
+color: black !important;
+
+}

@@ -1,0 +1,145 @@
+
+.react-multi-carousel-item--active {
+    width: 390px !important;
+}
+
+.react-multiple-carousel__arrow--left{
+    left: calc(4% + 22px);
+}
+
+@media screen and (max-width: 600px){
+    .react-multiple-carousel__arrow--right{
+        right: calc(4% + 22px) !important;
+        border-radius: 0 !important;
+    }
+
+    .react-multiple-carousel__arrow--left{
+        left: calc(4% );
+        border-radius: 0 !important;
+    }
+    
+}
+
+.react-multiple-carousel__arrow--righ{
+    right: calc(4% + 22px) !important;
+}
+
+.proCarouselContainer{
+    width: 300px !important;
+    /* height: 440px !important; */
+    background: #FFFFFF !important;
+    border: 1px solid #C9C9C9 !important;
+}
+
+.proCarouselContainerMobile{
+    width: 300px !important;
+    /* height: 440px !important; */
+    background: #FFFFFF !important;
+    border: 1px solid #C9C9C9 !important;
+    /* margin-left: 1.5rem; */
+}
+
+.proCarouselContainer:hover{
+    box-shadow: 26px 45px 69px #CCC9C9 !important;
+    border-bottom: 4px solid #ED2C37 !important;
+    transform: translate(-.1rem, -.1ex) !important;
+    
+}
+
+.proCarouselCard{
+    border: none !important;
+}
+
+.popularItmes{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 22px !important;
+    color: #000000 !important;
+    margin-top: 7rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.popularItmesMobile{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 26px !important;
+line-height: 22px !important;
+    color: #000000 !important;
+    /* margin-top: 2rem !important; */
+    margin-bottom: 2rem !important;
+
+}
+
+.Cardheader{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem !important;
+}
+
+.discountBadge{
+    background-color: #ED2C37;
+    height: 1.75rem;
+    width: 4.125rem;
+    top: 2rem;
+    /* position: absolute; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.discountBadge p{
+    color: black;
+    /* position: absolute; */
+    /* width: 2.063rem;
+    height: 1.875rem; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    /* line-height: 30px; */
+    color: #FFFFFF;
+}
+
+.priceDiv{
+    display: flex;
+    align-items: center;
+}
+
+.footerDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+}
+
+.proCauroselTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 18px !important;
+line-height: 28px !important;
+color: #000000 !important;
+}
+
+.proCarouselPrice{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 24px !important;
+line-height: 22px !important;
+color: #ED2C37 !important;
+}
+
+.proCarouselPriceStriped{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 18px !important;
+line-height: 22px !important;
+color: #CACACA !important;
+margin-left: 1rem !important;
+text-decoration: line-through !important;
+}

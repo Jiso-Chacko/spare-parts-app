@@ -1,0 +1,60 @@
+.Mui-selected{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    background-color: #ED2C37;
+    color: white !important;
+} 
+
+.MuiTab-root{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    
+}
+
+/* .MuiTabs{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+} */
+
+.MuiTabs-indicator{
+    background-color: #ED2C37 !important;
+    
+}
+
+ /* .MuiContainer-root { 
+    max-width: 1400px !important;
+ } */
+
+ .tabPanel{
+    width: 100% !important;
+ }
+
+/* 
+.MuiButtonBase-root-MuiTab-root.Mui-selected{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    background-color: #ED2C37;
+    color: white !important;
+} */
+
+/* .styleTab-selected{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    background-color: #ED2C37;
+    color: white !important;
+} */

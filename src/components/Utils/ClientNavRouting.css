@@ -1,0 +1,14 @@
+.NavbarContainer1{
+    background-color:#120102 !important ;
+    box-shadow: none !important;
+    overflow: hidden;
+    position: relative !important;
+    top: 0;
+}
+
+.appLogo{
+    width: 136px;
+    height: 92.63px;
+    top: 29px;
+    left: 120px;
+}

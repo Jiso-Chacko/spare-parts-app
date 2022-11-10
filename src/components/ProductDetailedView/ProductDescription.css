@@ -1,0 +1,269 @@
+
+.productionDiscription-container{
+    width: fit-content;
+    max-width: 50% !important;
+    margin-left: 3.875rem !important;
+    margin-right: 0;
+    margin-top: 2rem;
+}
+
+
+
+.DetailsTitle{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titleBrand{
+    font-weight: 400 !important;
+    font-style: normal;
+    font-size: 16px !important;
+    margin-left: 1rem !important;
+    line-height: 24px;
+}
+
+.titleDispatch{
+    font-weight: 400 !important;
+    font-style: normal;
+    font-size: 16px !important;
+    margin-right: 3rem !important;
+    line-height: 24px;
+}
+
+.productDetails-productTitle{
+    font-family: 'Sora' !important;
+    font-style: normal!important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 58px !important;
+    margin-top: 2rem !important;
+}
+
+.productTitleMobile{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 26px !important;
+line-height: 36px !important;
+color: #000000 !important;
+}
+
+.ratingButton{
+    background: #4DC709 !important;
+border-radius: 19px !important;
+width: 73px;
+height: 27px;
+}
+
+.ratingButtonMobile{
+    background: #4DC709 !important;
+    border-radius: 19px !important;
+    width: 59px;
+    height: 27px;
+    margin-top: 1.5rem;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.productPrice{
+    color: #ED2C37;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 22px !important;
+}
+
+.productPriceMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 22px;
+color: #ED2C37;
+}
+
+.productMRP{
+    color: #8C8C8C !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 40px !important;
+}
+
+.productMRPMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 40px;
+color: #8C8C8C;
+text-decoration: line-through;
+}
+
+.productDiscount{
+    color: #ED2C37 !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 40px !important;
+}
+
+.productDiscountMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 40px;
+    color: #ED2C37;
+}
+
+.productStock{
+    color: #8C8C8C !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 40px !important;
+}
+
+.productStockMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 40px;
+    color: #8C8C8C;
+}
+
+.productDetailsTitle{
+    color: #8C8C8C !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 40px !important;
+}
+
+.productDescriptionTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 32px !important;
+    line-height: 40px !important;
+}
+
+.productDescriptionTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 40px;
+    color: #000000;
+    margin-top: 2rem;
+}
+
+.productDescription{
+    color: #8C8C8C !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 30px !important;
+}
+
+.productDescriptionMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #8C8C8C;
+}
+
+.productDetailsList{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    margin-left: 1rem;
+}
+
+.productDetailsListMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    margin-left: 1rem;
+    
+}
+
+
+/* .productDetailsList li{
+    color: #ED2C37;
+} */
+
+.addToCart{
+    background: #ED2C37 !important;
+    width: 16rem !important;
+    color: white !important;
+    border-radius: 0 !important;
+}
+
+.addToCartMobile{
+    Width: 164px;
+    Height: 50px;
+    background: #ED2C37;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 40px;
+    color: #FFFFFF;
+    border-radius: 0;
+}
+
+.buyNow{
+    background: white !important;
+    color: black !important;
+    border: 1px solid #ED2C37 !important;
+    width: 16rem !important;
+    border-radius: 0 !important;
+}
+
+
+.buyNowMobile{
+    Width: 164px;
+    Height: 50px;
+    border: 2px solid #ED2C37;
+    border-radius: 0 !important;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 40px;
+    color: #000000;
+}
+
+
+.buyNow:hover{
+    background: #ED2C37 !important;
+    width: 16rem !important;
+    color: white !important;
+    border-radius: 0 !important;
+}
+
+.addToCart:hover{
+    background: white !important;
+    color: black !important;
+    border: 1px solid #ED2C37 !important;
+    width: 16rem !important;
+    border-radius: 0 !important;
+}

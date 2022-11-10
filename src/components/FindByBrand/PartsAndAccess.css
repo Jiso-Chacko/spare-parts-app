@@ -1,0 +1,33 @@
+.partsAndAccessTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 42px !important;
+line-height: 22px !important;
+color: #000000 !important;
+display: flex;
+    justify-content: center;
+}
+
+.partsAndAccessTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 36px;
+color: #000000 !important;
+display: flex;
+align-items: center;
+    justify-content: center;
+}
+
+
+.titleAccess{
+color: #ED2C37 !important;
+margin-left: 0.5rem !important;
+}
+
+.titleAccessMobile{
+    color: #ED2C37 !important;
+    margin-left: 0.5rem !important;
+    }

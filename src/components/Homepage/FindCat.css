@@ -1,0 +1,34 @@
+.findByCatTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 42px !important;
+    line-height: 22px !important;
+    color: #000000 !important;
+    align-self: center;
+}
+
+.findByCatContainer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.findByCatContainerMobile{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.findByCatTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 22px;
+    color: #000000;
+}

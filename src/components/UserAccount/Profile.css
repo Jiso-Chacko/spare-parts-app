@@ -1,0 +1,261 @@
+
+.profileCard{
+    width: 100% !important;
+    height: auto !important;
+    border: 1px solid #F4F4F4;
+    border-radius: 0 !important;
+}
+
+.label{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #A0A0A0;
+
+}
+
+.input{
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    width: 334px !important;
+    height: 48px !important;
+    text-decoration: none;
+}
+
+input:focus{
+    outline: none;
+    border: 2.5px solid #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(182, 181, 181, 0.65) !important;
+}
+
+
+.titlePersonal{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    line-height: 40px !important;
+    color: #000000;
+}
+
+.titlePersonalMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.titleCompany{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    line-height: 40px !important;
+    margin-top: 3rem !important;
+    color: #000000;
+}
+
+.titleCompanyMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    margin-top: 3rem !important;
+    color: #000000;
+}
+
+.titleShipping{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    line-height: 40px !important;
+    margin-top: 3rem !important;
+    color: #000000;
+}
+
+.titleShippingMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    margin-top: 3rem !important;
+    color: #000000;
+}
+
+.titleOptional{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 26px !important;
+    line-height: 40px !important;
+}
+
+.titleOptionalMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.companyButton{
+    width: 117px !important;
+    height: 48px !important;
+    background: #ED2C37 !important;
+    border-radius: 0 !important;
+    color: white !important;
+    margin-left: 2rem !important;
+}
+
+.companyButtonMobile{
+    width: 117px !important;
+    height: 48px !important;
+    background: #ED2C37 !important;
+    border-radius: 0 !important;
+    color: white !important;
+    margin-top: 1rem;
+}
+
+.addressCard{
+    width: 270px !important;
+    height: 308px !important;
+    left: 503px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    border-radius: 0;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+}
+
+.addressCardMobile{
+    width: 270px !important;
+    height: 308px !important;
+    left: 503px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    border-radius: 0;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    margin-top: 1rem;
+}
+
+.default{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 10px !important;
+    line-height: 10px !important;
+    width: 37px !important;
+    height: 10px !important;
+    color: #868686 !important;
+}
+
+.titleAddress{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    color: #000000 !important;
+}
+
+.addressBody{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #000000 !important;
+    margin-top: 1rem !important;
+}
+
+
+.addressPhn{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #000000 !important;
+    margin-top: 2rem !important;
+}
+
+
+.deliveryInstr{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;  
+    color: #ED2C37 !important;
+}
+
+.deliveryEdit{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    line-height: 24px !important;
+    color: #ED2C37 !important;
+    text-decoration-line: underline !important;
+}
+
+.deliveryRemove{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    line-height: 24px !important;
+    color: #000000 !important;
+    text-decoration-line: underline !important;
+}
+
+.deliveryDefault{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    line-height: 24px !important;
+    text-decoration-line: underline !important;
+    color: #000000 !important;
+
+}
+
+.addressCardNew{
+    width: 270px !important;
+    height: auto !important;
+    left: 503px !important;
+    background: #FFFFFF !important;
+    border: 2px dashed #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+}
+
+.addressCardNewMobile{
+    width: 270px !important;
+    height: 308px !important;
+    left: 503px !important;
+    background: #FFFFFF !important;
+    border: 2px dashed #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    margin-top: 1rem;
+}
+
+.titleAddNewAddress{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    line-height: 24px !important;
+    color: #000000 !important;
+    margin-top: 2rem;
+}
+
+.addAddNewIcon{
+    cursor: pointer;
+}

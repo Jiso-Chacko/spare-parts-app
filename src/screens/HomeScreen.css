@@ -1,0 +1,26 @@
+.bg-image{
+    background-image: url(../../public/assets/images/Homepage/HomepageBanner/banner1.png);
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: calc(100vh + 30vh) ;
+}
+
+.bg-imageMobile{
+    background-image: url(../../public/assets/images/Homepage/HomepageBanner/banner1.png);
+    min-height: 380px;
+    background-position:  69.2%;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    position: relative;
+    height: calc(100vh + 30vh) ;
+    opacity: 1.5;
+}
+
+.homepageMainContainer{
+    position: "relative" !important;
+    background-color: "#F4F4F4" !important;
+}
+

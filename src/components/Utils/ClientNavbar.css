@@ -1,0 +1,96 @@
+.NavbarContainer{
+    background-color:transparent !important;
+    box-shadow: none !important;
+    overflow: hidden;
+    position: relative !important;
+    top: 0;
+}
+
+.appLogo{
+    width: 136px;
+    height: 92.63px;
+    top: 29px;
+    left: 120px;
+}
+
+.homeLogin{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 22px !important;
+color: #FFFFFF;
+margin-right: 3rem !important;
+}
+
+.navSearchIcon{
+    position: absolute !important;
+    color:#B9B9B9 !important;
+    margin-left: .5rem !important ;
+}
+
+.searchText{
+    position: absolute !important;
+    margin-left: 2rem !important ;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 22px !important;
+    color: #B9B9B9 !important;
+
+}
+
+.navSearchInput{
+    display: flex !important;
+    align-items: center !important;
+}
+
+.navSearch{
+    width: 243px !important;
+    height: 35px !important;
+    border-left: 0 !important;
+    border: 0 !important    ;
+    margin-right: 2rem !important;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 22px !important;
+}
+
+/* .navSearchIcon{
+    color: black !important;
+} */
+
+.navSearchContainer{
+    height: 35px !important;
+    width: 35px !important;
+    background-color: #FFFFFF;
+    border-right: 0 !important;
+    color: #B9B9B9 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.navSearchContainer:focus{
+    border: 0 !important;
+}
+
+.navSearchInput{
+    border-left: 0 !important;
+}
+
+.navUnderline{
+    width: 780px !important;
+    height: 0px !important;
+    opacity: 0.2 !important;
+    border: 2px solid #FFFFFF !important;
+    margin-top: 1rem;
+}
+
+/* .navSearchIcon{
+    background: #B9B9B9 !important;
+    color: #B9B9B9 !important;
+} */

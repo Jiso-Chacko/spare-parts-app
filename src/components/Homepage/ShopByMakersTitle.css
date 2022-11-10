@@ -1,0 +1,33 @@
+.shopByMakersTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 42px !important;
+line-height: 22px !important;
+color: #FFFFFF !important;
+}
+
+.shopByMakersContainer{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.shopByMakersTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 22px;
+color: #FFFFFF !important;
+}
+
+.shopByMakersContainerMobile{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}

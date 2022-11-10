@@ -1,0 +1,281 @@
+.signupContainer{
+    height: 600px !important;
+    width: 576px !important;
+    background-color:  #F4F4F4;;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.signupContainerMobile{
+    height: 37.5 !important;
+    width: 36rem auto;
+    background-color:  #F4F4F4;;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.signupWelcome{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 40px;
+color: #000000 !important;
+}
+
+.signupWelcomeMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 40px;
+    color: #000000;
+}
+
+.signupSubWelcome{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 300 !important;
+font-size: 16px !important;
+line-height: 24px !important;
+color: #878787 !important;
+margin-top: .5rem !important;
+}
+
+.signupSubWelcomeMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #878787;
+}
+
+.signupWithGoogle{
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    width: 443px !important;
+    height: 48px !important;
+    margin-top: 1rem !important;
+}
+
+.signupWithGoogleMobile{
+    width: 100%;
+    height: 3rem;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+}
+
+.signupWithGoogltTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 300 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #000000 !important;
+}
+
+.signupWithGoogltTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    
+}
+
+.signupLabel{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #A0A0A0 !important;
+}
+
+.signupLabelMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #A0A0A0;
+}
+
+.signupInput{
+    width: 443px !important;
+    height: 48px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    outline: 0;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #A0A0A0 !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+.signupSelectbox{
+    width:  13rem !important;
+    height: 48px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    outline: 0;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #A0A0A0 !important;
+}
+
+.signupSelectboxMobile{
+    width:  100% !important;
+    height: 48px !important;
+    background: #FFFFFF !important;
+    border: 1px solid #E0E0E0 !important;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65) !important;
+    outline: 0;
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    color: #A0A0A0 !important;
+}
+
+.signupInputMobile{
+    width: 100%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    box-shadow: 0px 4px 9px -5px rgba(202, 202, 202, 0.65);
+}
+
+.rememberLabel{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 12px !important;
+line-height: 24px !important;
+color: #000000 !important;
+}
+
+.rememberLabelMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.rememberInputMobile{
+    width: 12px;
+height: 12px;
+border: 2px solid #ED2C37 !important;
+}
+
+.rememberInput:checked{
+    border: 2px solid #ED2C37 !important;
+    background-color: #ED2C37 !important;
+}
+
+.forgotPassButton{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 24px !important;
+    color: #ED2C37 !important;
+}
+
+.forgotPassButtonMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;  
+text-decoration-line: underline;
+color: #ED2C37;
+}
+
+.signupButton{
+    width: 444px !important;
+height: 48px !important;
+background: #ED2C37 !important;
+font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 16px !important;
+line-height: 24px !important;
+color: #FFFFFF !important;
+border-radius: 0 !important;
+}
+
+.signupButtonMobile{ 
+    width: 100%;
+    height: 48px;
+    background: #ED2C37;
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+border-radius: 0 !important;
+
+}
+
+.account{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+color: #000000 !important;
+}
+
+.accountMobile{
+    font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+
+.loginSignup{
+    color: #ED2C37 !important ;
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+}
+
+.loginSignupMobile{
+    color: #ED2C37 !important ;
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+}

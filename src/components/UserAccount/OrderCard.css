@@ -1,0 +1,83 @@
+.orderCard{
+    width: 100% !important;
+    height: auto !important;
+    border: 1px solid #F4F4F4;
+    border-radius: 0 !important;
+}
+
+.cardTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+}
+
+.cardSubTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F4F4F4;
+    width: 100%;
+}
+
+.seperator{
+    border-left: 2px solid;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.deliveryTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 40px !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.imgContainer{
+    border: 1px solid #C9C9C9;
+    width: fit-content !important;
+    height: fit-content !important;
+}
+
+.productTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 26px !important;
+}
+
+.proSubTitle{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 22px !important;
+    color: #737373 !important;
+}
+
+.proPrice{
+    font-family: 'Sora' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 22px !important;
+    color: #ED2C37 !important;
+}
+
+.returnButton{
+    background-color: #ED2C37 !important;
+    color: white !important;
+    border-radius: 0 !important;
+}

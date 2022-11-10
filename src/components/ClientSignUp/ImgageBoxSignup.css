@@ -1,0 +1,62 @@
+.imageBoxSignupContainer{
+    height: 600px !important;
+    width: 576px !important;
+    background-image: linear-gradient(
+        to bottom, transparent, #0d0d0c
+      ), url(../../../public/assets/images/Login/SignupBanner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.imageBoxSignupContainerMobile{
+    height: 11rem !important;
+    width: 36rem auto;
+    /* background-image: url(../../../public/assets/images/Login/LoginBanner.png); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(
+    to bottom, transparent, #0d0d0c
+  ), url(../../../public/assets/images/Login/LoginBanner.png);
+
+}
+
+.imgageBoxSignupTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 600 !important;
+font-size: 42px !important;
+line-height: 52px !important;
+color: #FFFFFF !important;
+}
+
+.imgageBoxSignupTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 28px;
+    color: #FFFFFF !important;
+}
+
+.imgageBoxSignupSubTitle{
+    font-family: 'Sora' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 0.75rem !important;
+line-height: 28px !important;
+color: #FFFFFF !important;
+}
+
+.imgageBoxSignupSubTitleMobile{
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    color: #FFFFFF !important;
+}
